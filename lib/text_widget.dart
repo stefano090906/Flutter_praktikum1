@@ -5,7 +5,7 @@ class TextWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Text(
-      'Hello Word!',
+      'Hello!',
     style: TextStyle(fontSize: 30, color: Colors.blue),
     );
   }
