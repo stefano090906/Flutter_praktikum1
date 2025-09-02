@@ -15,4 +15,4 @@
 8. membuat jarak antara widget
 9. membuat lingkaran dan memasukan logo kedalam lingkaran
 10. klik tulisan run diatas tulisan void main;
-![alt text] (images.png)
+![alt text](image.png)
